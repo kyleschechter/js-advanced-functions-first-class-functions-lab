@@ -24,6 +24,6 @@ function fareTripler(fare) {
     return (fare*3)
 }
 
-function selectDifferentDrivers(arrayOfDrivers, func) {
-    return func(arrayOfDrivers)
+function selectDifferentDrivers(array, func) {
+    return func(array)
 }
